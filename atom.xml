@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://AnnaSu.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://AnnaSu.github.io/blog/"/>
+  <updated>2013-12-17T21:31:58+08:00</updated>
+  <id>http://AnnaSu.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Install Octopress]]></title>
+    <link href="http://AnnaSu.github.io/blog/blog/2013/12/17/how-to-install-octopress/"/>
+    <updated>2013-12-17T00:00:00+08:00</updated>
+    <id>http://AnnaSu.github.io/blog/blog/2013/12/17/how-to-install-octopress</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: &ldquo;how-to-install-octopress&rdquo;
+date: 2013-12-17 20:30:32 +0800
+comments: true</p>
+
+<h2>categories: </h2>
+
+<p>大家好</p>
+
+<p>明天就是活動開始的日子, 以下是注意事項：</p>
+
+<p>1.活動日程與資訊在：<a href="http://railsgirls.com/taipei">http://railsgirls.com/taipei</a></p>
+
+<p>Friday 8th November</p>
+
+<pre><code>19.00 - 
+環境安裝
+從零開始安裝Ruby以及Rails環境, 以及基本的命令列模式使用教學。
+</code></pre>
+
+<p>Saturday 9th November</p>
+
+<p>10:00 &ndash; 11:00</p>
+
+<pre><code>報到以及繼續安裝環境
+學員報到，接續前晚的課題，將基本 Ruby 及 Rails 環境架設完成，基礎命令行(Command line)輕鬆教學讓女孩們第一次架環境下 command 就上手！ 
+</code></pre>
+
+<p>11:00 &ndash; 11:15</p>
+
+<pre><code>Welcome
+介紹贊助商與協力夥伴們
+</code></pre>
+
+<p>11:20 &ndash; 12:20</p>
+
+<pre><code>Workshop
+Ruby 初探：早晨架設好的環境及相關小知識，開始基礎 Ruby 語法教學。
+</code></pre>
+
+<p>12:30 &ndash; 13:30</p>
+
+<pre><code>午餐時間
+</code></pre>
+
+<p>13.30- 17:00</p>
+
+<pre><code>Workshop
+Let's on Rails：學習了基本的 Ruby 語法，一起進入 Rails 的軌道上吧，帶領學員用最輕鬆愉快的方式實做網站中的 CRUD (新增、顯示、修改、刪除)，嘗試把自己的網站成品部署到雲端平台，一天學會 Ruby on Rails 網站架設。
+</code></pre>
+
+<p>17:00-18:30</p>
+
+<pre><code>成果發表
+秀一下作品吧！
+</code></pre>
+
+<p>18:40-</p>
+
+<pre><code>Afterparty
+自由參加
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
